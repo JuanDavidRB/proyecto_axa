@@ -1,0 +1,32 @@
+.text-axa {
+    color: blue !important;
+}
+
+.btn-axa {
+    background: linear-gradient(90deg,#1c3643, #273b47 25%, #1e5372);
+    color: white;
+}
+
+#header .container,
+#header .container{
+    height: 100%
+}
+#header{
+    background: linear-gradient(90deg,#1c3643, #273b47 25%, #1e5372)  
+}
+
+#header h1 {
+    color: white;
+    font-size: 100 px;
+}
+
+#header img{
+    width: 150px;
+}
+
+@media (min-width: 600px) {
+    .img
+    .container {
+        width: 10%;
+    }
+}
